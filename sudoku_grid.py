@@ -45,7 +45,6 @@ def sudoku_grid_correct(sudoku: list):
                 return False
     return True
 
-
 if __name__ == "__main__":
     sudoku2 = [
     [2, 6, 7, 8, 3, 9, 5, 0, 4],
